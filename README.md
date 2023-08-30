@@ -46,4 +46,3 @@ Additionally, the first time using the synthetic RF dataset generator, you'll ne
 >> cd ./cmodules && make && cd ../
 ```
 
->>>>>>> master
